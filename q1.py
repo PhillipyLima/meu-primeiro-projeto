@@ -51,5 +51,3 @@ horas_trabalhadas=int(input("digite a hora trabalhada:"  ))
 valor_da_hora_trabalhada=int(input("digite o valor da hora trabalhada:"))
 salario  =  horas_trabalhadas*valor_da_hora_trabalhada
 print("o salario è",  salario)
-
-                             
